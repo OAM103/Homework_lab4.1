@@ -1,4 +1,3 @@
-package com.metanit.Ex3;
 
 public class Person {
     String FullName;
