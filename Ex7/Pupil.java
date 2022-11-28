@@ -1,0 +1,14 @@
+package com.metanit.Ex7;
+
+public class Pupil extends Learner {
+    Pupil(String name) {
+        this.name = name;
+    }
+
+    public String getName() {
+        return this.name;
+    }
+    public String getType() {
+        return "Pupil";
+    }
+}
