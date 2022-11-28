@@ -1,4 +1,4 @@
-package com.metanit.Ex7;
+
 
 public class Pupil extends Learner {
     Pupil(String name) {
