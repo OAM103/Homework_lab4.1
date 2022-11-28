@@ -1,4 +1,3 @@
-package com.metanit.Ex7;
 
 public abstract class Learner {
     String name;
