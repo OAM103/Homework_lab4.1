@@ -1,4 +1,3 @@
-package com.metanit.Ex4;
 
 import java.util.Scanner;
 
