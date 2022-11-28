@@ -1,4 +1,3 @@
-package com.metanit.Ex7;
 
 public class Student extends Learner {
 
